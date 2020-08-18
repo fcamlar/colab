@@ -1,0 +1,284 @@
+﻿Value Driver Display Name (T12),KPI Name
+Increase profit with product personalization,Operating margin from personalized products (in %)
+Increase revenue growth with better product personalization,Revenue growth from personalized products (in %)
+Reduce finance cost,Finance cost (% of revenue)
+Improve on-time delivery performance,On-time delivery performance (in %)
+Reduce days in inventory,Days in inventory
+Reduce order fulfillment lead time,Order fulfillment lead time (in days)
+Improve supply chain FTE productivity,Supply chain FTEs per billion in revenue (overall)
+Reduce total logistics cost,Total logistics cost (% of COGS)
+Reduce revenue loss due to fulfillment Issues,Revenue loss due to fulfilment issues (%)
+Reduce customer churn,Customer churn (in %)
+Reduce overall supply chain planning cost,Supply chain planning cost (% revenue)
+Reduce inventory carrying cost,Inventory carrying cost (% of revenue)
+Reduce revenue loss due to stock-outs,Revenue loss due to stock outs (%)
+Reduce revenue leakage,Revenue leakage (in %)
+Increase capacity utilization,Capacity utilization rate (in %)
+"Reduce losses from unforeseen risk (fraud, access risk)",Unplanned losses from unforeseen risk events (in %)
+Reduce HR cost,Total HR cost per employee
+Reduce time to fill,Time to Hire
+Increase employee engagement,Employee engagement
+Reduce bad hires,Bad hires (in %)
+Increase revenue share of new customers,Total revenue from new customers (in %)
+Reduce claim processing cost,Claim processing cost (% of operating income)
+Reduce claim settlement time,Claim settlement time (in days)
+Reduce store operating cost,Store operating cost (% of revenue)
+Reduce unplanned markdowns,Unplanned markdowns (% of revenue)
+Increase overall budget accuracy,Overall budget accuracy rate (in %)
+Reduce grant write-offs,Grant writeoffs (% of total grants disbursed)
+Reduce grant funding lost,Grant funding lost (% of total research grant)
+Increase grant management FTE productivity,Grantor administration FTEs per million budget
+Improve HR shared services efficiency,HR shared services FTEs (per 100 EEs)
+Improve targeting of training,Training spend per employee
+Reduce employee manual transaction effort,Time spent on HR transactions per employee per year (in hours)
+Reduce asset maintenance cost,Asset maintenance cost (% of revenue)
+Reduce un-planned downtime or outages,Unplanned downtime or outages ( % of planned operating hours)
+Reduce MRO inventory cost,MRO Inventory (% of gross machinery)
+Optimize capital expenditure,Capital expenditure (% of revenue)
+Reduce EH&S penalties and fines,EH&S penalties and fines (in '000s per billion in rev)
+Reduce lost time accidents,Lost time accident frequency rate (per 200K work hours)
+Increase revenue from new products/services,Revenue from new products/services (in %)
+Reduce time to market for new products,Time to market for new products (in months)
+Optimize research and development expense,R&D expense (% of rev)
+Increase cash forecast accuracy,Cash forecast accuracy (in %)
+Reduce commission payouts,Sales commissions/ incentives (% of sales cost)
+Reduce commission overpayments,Commission overpayments(% of sales cost)
+Reduce errors in bills sent out,Error rate in invoices sent out (in %)
+Reduce bounce rate,Bounce rate (in %)
+Reduce lease compliance errors,Lease compliance errors (in %)
+Increase real estate occupancy rate,Real estate occupancy rate (in %)
+Reduce service and support cost,Service and support cost (% of revenue)
+Increase conversion of leads qualified,Qualified sales leads closed annually (in %)
+Increase order management FTE productivity,Order management FTEs per billion in revenue
+Reduce financial exposure risk,Hedge ratio (in %)
+Reduce sales force turnover,Sales force turnover rate (in %)
+Improve cycle time for new contract creation,Cycle time for new contract creation (in days)
+Improve environmental safety and compliance,Number of environmental incidents per year per billion revenue
+Improve product traceability,Rev lost due to compliance/recall issues (%)
+Reduce revenue lost due to poor contract management,Revenue lost due to poor contract management (% revenue)
+Increase financial forecast accuracy,Financial forecast accuracy (in %)
+Reduce cost of capital,Cost of capital (in %)
+Increase digital channel revenue through increase in conversion rate,Digital channels conversion rate (in %)
+Increase buying frequency,Repeat purchase revenue (% of digital channel revenue)
+Reduce cart abandonment rate,Cart abandonment rate (in %)
+Improve merchandising FTE productivity,Merchandising FTEs per billion in revenue
+Reduce cost of digital channels content management,Content management cost (% of revenue)
+Increase revenue from cross-sell/up-sell,Cross-sell/up-sell revenue (% of total revenue)
+Improve customer satisfaction,Customer satisfaction (in %)
+Reduce sales cost,Sales cost (% of revenue)
+Reduce sales cycle time,Average length of sales cycle (in weeks)
+Increase sales forecast accuracy,Sales forecast accuracy rate (in %)
+Reduce IT spend,IT spend ( % of revenue)
+Increase IT user productivity,IT FTEs per billion revenue
+Reduce HR compliance cost and mitigate risk,HR compliance cost (% of HR cost)
+Improve payroll management function efficiency,Payroll management FTEs (per 100 EEs)
+Improve social collaboration and knowledge sharing,Time spent in gathering and sharing information per week (in hours)
+Reduce turnover,Average voluntary turnover rate (%)
+Reduce manager time on employee administration,Manager time on employee admin. (in %)
+Reduce manual transaction and HR administration effort,"Time spent by HR admin on PM/GM/CM, onboarding and offboarding (in hrs per year)"
+Improve time to full productivity of new hires,Time to full productivity for new hires (in days)
+Improve recruiting function efficiency,Recruitment and staffing FTEs (per 100 EEs)
+Reduce direct recruiting spend,Cost per hire
+Increase internal promotions,Internal successor promotions (in %)
+Reduce days sales outstanding,Days sales outstanding
+Reduce banking fees,Bank fees (% revenue)
+Reduce uncollectible accounts receivable write offs,Uncollectible A/R write-offs (% of revenue)
+Improve aircraft dispatch reliability,Aircraft dispatch reliability (in %)
+Optimize digital marketing spend,Digital marketing cost (% of marketing cost)
+Optimize trade promotion spend,Trade promotion spend (% of revenue from products on promotion)
+Increase effectiveness of marketing promotions,Promotions/offers which drive incremental revenue (in %)
+Improve quality of leads generated,Sales leads qualified (in %)
+Reduce marketing analytics spend,Marketing analytics spend (% of revenue)
+Improve marketing FTE productivity,Marketing FTE per billion of revenue
+Increase first time resolution rate by field service technicians,Rework orders (in %)
+Increase service revenue,Annual service and support revenue (% of rev)
+Improve compliance to SLA,Average service level agreement compliance (in %)
+Reduce warranty cost,Warranty cost (% of sales)
+Reduce invoice error rate,Invoice error rate (in %)
+Reduce vacancies in critical roles,Critical position vacancies (in %)
+Improve overall equipment effectiveness,Overall equipment effectiveness (in %)
+Improve wrench time,Wrench time (in %)
+Reduce asset data management cost,Asset Data Management Cost (per million of production assets)
+Improve asset data accuracy,Asset data accuracy (in %)
+Improve asset data completeness,Asset data completeness (in %)
+Reduce manufacturing cycle time,Manufacturing cycle time (in days)
+Increase worker capacity utilization,Worker capacity utilization (in %)
+Reduce rework cost,Rework cost (% of mfg. cost)
+Improve demand forecast accuracy,Forecast accuracy (in %)
+Reduce scrap cost,Scrap (% of mfg. cost)
+Reduce penalties and fines on data protection & identity regulation,Data protection and identity management regulations penalties and fines per billion revenue
+Improve savings from shifting peak-hour consumption,Peak-hour energy consumption (in %)
+Reduce inaccurate utility bills,Inaccurate bills due to meter reading errors (in %)
+Reduce meter reading and data administration cost,Meter reading and data administration cost per customer
+Reduce meter reading to invoice cycle time,Number of days from meter reading to invoice
+Reduce energy regulation related penalties and fines,Energy regulation related penalties and fines (in '000s per billion in rev)
+Reduce losses due to inactive meters,Billing lost because of inactive meters (% of total commercial losses)
+Improve tactical sourcing savings,Total Tactical Sourcing Savings Rate (in %)
+Improve HR reporting and analytics capability,HR analytics and reporting FTEs (per 100 EEs)
+Reduce ongoing localization cost,Average cost per localization project
+Improve user compliance,Maverick spend (% spend under management)
+Improve supplier/external partner compliance,Spend not e-invoiced (in %)
+Improve data quality,Data accuracy (in %)
+Reduce risk of quality non-compliance,Cost incurred due to non-compliance (% of revenue)
+Reduce audit cost,Audit cost (% of revenue)
+Reduce returnable packaging spend,Returnable packaging spend (% of revenue)
+Reduce EH&S management cost,EH&S cost (% of revenue)
+Improve employee productivity related to EIS activities,Time spent on EIS activities per employee per year (in hours)
+Reduce design and documentation cost,Design and documentation cost (% of revenue)
+Reduce project delivery cost,Project cost (% of project revenue)
+Increase billable revenue from project changes,Billable revenue from change requests (in %)
+Improve production and revenue accounting FTE productivity,Production and revenue accounting FTE cost (% of revenue)
+Minimize hydrocarbon production days lost,Production days lost due to maintenance
+Improve trade margin/profitability,Trading profit margin (% of trading rev)
+Increase spend under management,Spend under management (% of addressable spend) - Indirect
+Improve P card rebates and float,Spend on P-card (in %)
+Improve days payable outstanding,Days payable outstanding
+Improve strategic business and resource planning,Time spent on strategic business and resource planning
+Improve sourcing savings on direct spend,Strategic sourcing savings rate on direct spend (in %)
+Improve sourcing savings on indirect spend,Strategic sourcing savings rate on indirect spend (in %)
+Improve incremental discounts,Average adoption of discounts (in %)
+Improve discount achievement,Current discount capture rate (in %)
+Reduce loan servicing Cost,Loan servicing cost (% of operating income)
+Reduce payment processing cost,Payment processing cost (% of operating income)
+"Increase % of projects on time, budget and scope","Projects on time, budget and scope (in %)"
+Reduce transportation planning cycle time,Transportation planning cycle time (in hours)
+Reduce COGS with better product design decisions,Cost of goods/services sold (% revenue)
+Reduce time to steady state production volume,Time to steady state production volume (in weeks)
+Reduce the tax gap,Tax revenue lost due to non assessment (in selected currency)
+Improve citizen satisfaction,Citizen satisfaction rating (1 to 10)
+Increase tax revenue collection yield,Tax revenue collected per year (in selected currency)
+Reduce effort to implement legislation changes,Time to implement legislation changes (in hours per year)
+Reduce contract administration cost,Contract adminstration cost (% of revenue)
+Reduce annual licensor royalty spend,Annual licensor spend (% of revenue)
+Improve customer profitability analysis,Profitability analysis cost (% of revenue)
+Increase license revenue,License revenue (% of revenue)
+Reduce digital asset creation cost,Digital asset/creative cost (% of revenue)
+Reduce customer consent management cost,Consent management cost (% of marketing cost)
+Reduce emissions cost,CO2 emissions (mil ton / Bn rev)
+Reduce total manufacturing cost,Manufacturing cost (% of rev)
+Improve quality of care,Patient experience (in %)
+Reduce energy cost,Energy use (mil GJ / Bn rev)
+Reduce days to close annual books,Days to close annual books
+Improve procurement FTE productivity,Procurement FTEs per billion of spend
+Improve accounts payable FTE productivity,Average invoices per AP FTE
+Reduce carbon footprint,Percent of paper based docs and contracts created
+Improve user experience and interface solutions,User experience rating (in %)
+Improve IP inventory data,IP data accuracy (in %)
+Improve discount achievement for employee initiated spend,Current discount capture rate on employee initiated spend (in %)
+Improve service entry sheet FTE productivity,Time taken to create/ update & approve a service entry sheet (Hrs)
+Improve source to contract FTE productivity,Addressable spend sourced per sourcing FTE
+Improve operational procurement FTE productivity,POs per operational procurement FTE
+Improve user compliance for employee initiated spend,Employee initiated maverick spend (% of spend under management)
+Improve display advertising,Display advertising conversion rate (in %)
+Improve chat users conversion rate for new customers,Chat users conversion rate (in %)
+Improve eMail conversion rate for new customers,E-mail conversion rate (in %)
+Increase service contract renewals,Average service contract renewal rate (in %)
+Increase service revenue from new business models,Service revenue from new business models (% of revenue)
+Increase employee initiated spend under management,Employee initiated spend under management
+Reduce project cost overrun,Project cost overrun
+Reduce product compliance cost,Product compliance cost (in % of R&D expense)
+Increase project margin,Average Project Gross Margin (in %)
+Reduce ideation/innovation management cost,Ideation/innovation management cost (% of rev)
+Increase project reporting & analysis FTE productivity,Project reporting & analysis FTE headcount cost (% of rev)
+Reduce project delays,Cost of project delays (% of project revenue)
+Reduce engineering change cost,Engineering change cost (in % of R&D expense)
+Reduce HR technology cost,HR technology cost (% of total HR cost)
+Reduce data quality cost,Data quality cost (% of data management cost)
+Reduce IT infrastructure spend,Total infrastructure spend (% of IT spend)
+Reduce data integration cost,Data integration cost (% of IT spend)
+Reduce social media cost,Social media cost (% of revenue)
+Reduce real estate management cost,Real estate management cost (% of revenue)
+Reduce tax accounting and reporting cost,Costs (% rev): Tax accounting and reporting
+"Reduce customer billing, credit & collections cost","Costs (% rev): Billing, credit and collections"
+Reduce budgeting and forecasting cost,Costs (% rev): Budgeting and forecasting
+Reduce compliance and risk management cost,Costs (% rev): Compliance and risk mgmt.
+Reduce treasury and cash management cost,Costs (% rev): Treasury and cash mgmt.
+Reduce G/L and financial closing cost,Costs (% rev): G/L and financial closing
+Reduce cost accounting and analysis cost,Costs (% rev): Cost accounting and analysis
+Reduce business and operations analysis/reporting cost,Costs (% rev): Business and operations analysis and reporting
+Reduce accounts receivable management cost,Costs (% rev): Accounts receivable
+Reduce project subcontracting cost,Subcontracting cost (% of project revenue)
+Reduce project management cost,Project management cost (% of project revenue)
+Increase sales incentive management FTE productivity,Sales incentive and commission management FTEs per billion in revenue
+Increase sales force efficiency,Sales FTEs per billion in revenue
+Reduce time spent by sales reps on shadow accounting,Time spent by sales rep on shadow accounting in hours
+Reduce onboarding time for field sales representatives,Average onboarding time for field sales representatives (in weeks)
+Reduce time to create a configured quote,Time to create a configured quote (in hours)
+Improve contact center FTE productivity,Contact center FTEs per billion of revenue
+Improve field service FTE productivity,Field service FTEs per billion of revenue
+Reduce service contract administration cost,Service contract admin cost (% of rev.)
+Reduce complaints and returns cost,Complaints and return cost (% of rev.)
+Reduce transportation spend,Transportation spend (% of COGS)
+Reduce warehouse management cost,Warehouse management cost (% of COGS)
+Reduce manufacturing direct labor cost,Direct labor cost (% of mfg. cost)
+Reduce manufacturing overheads cost,Manufacturing overhead cost (% of mfg. cost)
+Reduce manufacturing direct material cost,Direct material cost (% of mfg. cost)
+Reduce cost to enable disconnected operations,IT FTE man days spent in an year on customizing mobile apps (for disconnected ops)
+Reduce mobile application lifecycle management cost,IT FTE man days spent in an year on mobile app lifecycle management
+Increase revenue from new business models,Revenue from new business models (% of revenue)
+Improve billing FTE productivity,Billing FTEs per billion of revenue
+Improve admin FTE productivity,Admin FTEs per billion of revenue
+Reduce revenue loss due to insurance claim denials,Insurance claims rejected (in %)
+Improve hospital bed utilization,Average bed utilization rate (in %)
+Improve student enrollment,Annual growth in student enrollment (in %)
+Reduce research budget overrun,Research budget overrun (in %)
+Increase billable utilization rate,Resource utilization rate (in %)
+Increase proposal win rate,Proposal conversion rate (in %)
+Reduce field service administration cost,Field service administrative work (in %)
+Reduce time to report to field service back office,Time to report to back office (in hours)
+Reduce time to field service invoice,Time to field service invoice (in hours)
+Reduce non-essential travel cost,Annual field service travel non-essential spend (% of service and support cost)
+Improve hiring effectiveness,Good hire rate (in %)
+Reduce productivity loss to unplanned absenteeism,Work days lost to absenteeism (in %)
+Improve productivity of low performing employees,Employees who are low/below average performers (in %)
+Increase IT project execution success,Risk of project failure (in %)
+"Reduce security, health, and safety risk",Incidents per 100 employees per year
+Increase employee technology effectiveness,Average hours lost to technology issues per employee per month (in hrs)
+Increase employee experience management program efficiency,Time spent by HR on employee experience management program administration (in hrs per month)
+Reduce employee support cost,"Inquiries into IT, finance and HR shared services (in %)"
+"Benefitfocus-Reduce printing, distribution and shipping cost of paper benefits package","Average cost of printing, distributing and shipping paper benefits package"
+Benefitfocus-Improve benefit administration function efficiency,Benefit enrollment and exception management FTEs (per 100 EEs)
+Benefitfocus-Reduce cost of employee benefits,Employees currently on high deductible health plans (in %)
+Benefitfocus-Reduce dependent eligibility verification cost,Ineligible dependent population (in %)
+Kronos/WFS-Reduce controllable overtime expense/payments,Payroll due to overtime (in %)
+Kronos-Improve time tracking and schedule management function efficiency,"Time keeping & schedule management FTE time spent on time collection, tracking and scheduling (in %)"
+Kronos/WFS-Reduce HR/payroll FTE time on tracking and management of leaves and time accruals,Time spent by HR/payroll staff on leave and accruals management (in hours per day)
+Kronos-Reduce HR/payroll FTE time on employee information change requests,Time spent by HR/payroll staff on updating employee information change requests (in hours per day)
+Kronos/WFS-Reduce manager time on time keeping & scheduling activities,"Manager/supervisor time spent on approving leave requests, time keeping & scheduling (in %)"
+Kronos-Reduce labor fine avoidance,Average settlement per plaintiff
+WFS-Reduce paid time-off errors,Extra unearned days off per employee per year
+Kronos/WFS-Improve payroll accuracy,Payroll errors (in %)
+Kronos-Reduce leave liability balance,Leaves over accrued (in %)
+Kronos/WFS-Reduce payroll time inflation and gaming,Payroll inflation per employee per day (in hours)
+Optimize data storage cost,Data storage cost (% of IT spend)
+Improve database administration FTE productivity,Database administration FTEs per billion in revenue
+Improve analytics FTE productivity,Analytics FTEs per billion in revenue
+Improve application development FTE productivity,Application development FTEs per billion in revenue
+Reduce data security cost,Data security cost (% of IT spend)
+Reduce master data management cost,Master data management cost (% of data management cost)
+Reduce data management cost,Data management cost (% of IT spend)
+Reduce document signature error rate,Error rate on paper documentation (in %)
+Reduce document signature cycle time,Document signature cycle time (in mins)
+Reduce document signature hard cost,"Hard cost of printing, distributing, storing contracts/documents"
+Improve external workforce invoice receipt & processing FTE productivity,External workforce invoices per invoice processing FTE
+Increase savings on services categories by managing worker rates,Savings from rate management for services spend (in %)
+Reduce services cost by tactical bidding,Tactical savings rate for services spend (in %)
+Reduce non-compliant external workforce spend,External workforce spend that is maverick (in %)
+Reduce non-compliant services spend,Services spend that is maverick (in %)
+Reduce external workforce invoice errors,External workforce invoices NOT automatically / systematically reconciled (in %)
+Reduce cost by increasing discount capture on services spend,Services spend eligible for discount (in %)
+Improve services procurement invoice receipt & processing FTE productivity,Services invoices per invoice processing FTE
+Improve services procurement purchase order requisitioning & transmission FTE productivity,Services POs per PO processing FTE
+Reduce services invoice errors,Services invoices NOT automatically / systematically reconciled (in %)
+Reduce cost of assets lost tied to external workers,Assets recovered from external workers at off-boarding (in %)
+Reduce external workforce cost using tactical bidding,Tactical savings rate for external workforce spend (in %)
+Reduce cost of assets lost tied to services categories,Assets recovered from SOW workers at off-boarding (in %)
+Improve external workforce purchase order requisitioning & transmission FTE productivity,External workforce POs per PO processing FTE
+Increase savings by managing external worker rates,Savings from rate management for external workforce spend (in %)
+Reduce risk associated with external worker classification,New external worker profiles potentially at risk for misclassification (in %)
+Reduce cost by increasing discount capture on external workforce spend,External workforce spend eligible for discount (in %)
+Reduce cost associated with worker onboarding,Time to full productivity for new external workers (in days)
+Increase number of SOW based projects meeting goals and objectives,SOW workers not meeting goals/ objectives (in %)
+Improve control over program budgets,SOW spend NOT completed within budget (in %)
+Reduce SOW budgeting & forecasting cost,SOW budgeting & forecasting cost per million of services spend
+Increase number of external workers meeting goals and objectives,Independent contractors and agency workers not meeting goals/ objectives (in %)
